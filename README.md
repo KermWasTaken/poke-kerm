@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Kerm.dev Screen Shot][site-screenshot]](https://kerm.dev)
+[![Kerm.dev Screen Shot][site-screenshot]](https://poke.kerm.dev)
 
 I made this project following an unfinished ["React mock inteview"][video-link] Youtube video by [DonTheDeveloper][channel-link]. I wanted to apply React skills I had learn to see if I could finish what the video start. This project is the result.
 

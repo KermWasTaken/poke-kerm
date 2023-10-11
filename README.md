@@ -4,13 +4,13 @@
 <br />
 <div align="center">
   <a href="https://poke.kerm.dev" target="_blank" rel="noopener noreferrer">
-    <img src="src/assets/PokeKerm.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/PokeKerm.png" alt="Logo">
   </a>
 
 <h3 align="center">PokeKerm</h3>
 
   <p align="center">
-    An online PokeDex for first generation Pokemon using the PokeAPI. Built with React/Bootstrap stack and hosted on Netlify.
+    An online Pokedex for first generation Pokemon using the PokeAPI. Built with React/Bootstrap stack and hosted on Netlify.
     <br />
     <a href="https://github.com/KermWasTaken/poke-kerm"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,15 +84,17 @@ Project Link: [https://poke.kerm.dev](https://poke.kerm.dev)
 
 ## Acknowledgments
 
+- [PokeAPI](https://pokeapi.co/)
 - [Front End Mock Technical Interview | JavaScript, CSS, React, and Algorithms][video-link] by [DonTheDeveloper][channel-link]
 - [Pokemon 3D text | Text Effect Generator | TextStudio](https://www.textstudio.com/logo/pokemon-3d-text-318)
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/KermWasTaken/poke-kerm?
+[license-shield]: https://img.shields.io/github/license/KermWasTaken/poke-kerm
 [license-url]: https://github.com/KermWasTaken/poke-kerm/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zacharykermitz
